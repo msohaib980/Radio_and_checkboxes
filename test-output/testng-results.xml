@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7690" started-at="2016-09-05T14:01:24Z" finished-at="2016-09-05T14:01:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7690" started-at="2016-09-05T14:01:24Z" finished-at="2016-09-05T14:01:32Z">
+      <class name="fullproject.radioandcheckbox">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:fullproject.radioandcheckbox@20e2cbe0]" name="beforeClass" is-config="true" duration-ms="4258" started-at="2016-09-05T10:01:24Z" finished-at="2016-09-05T10:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:fullproject.radioandcheckbox@20e2cbe0]" name="f" duration-ms="162" started-at="2016-09-05T10:01:28Z" finished-at="2016-09-05T10:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="other()[pri:0, instance:fullproject.radioandcheckbox@20e2cbe0]" name="other" duration-ms="150" started-at="2016-09-05T10:01:28Z" finished-at="2016-09-05T10:01:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- other -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:fullproject.radioandcheckbox@20e2cbe0]" name="afterClass" is-config="true" duration-ms="3086" started-at="2016-09-05T10:01:29Z" finished-at="2016-09-05T10:01:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- fullproject.radioandcheckbox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
